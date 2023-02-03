@@ -11,7 +11,7 @@ It consists of three components:
 * [Multi-Cluster Application Dispatcher (MCAD)](https://github.com/project-codeflare/multi-cluster-app-dispatcher) for management of batch jobs
 * [Instascale](https://github.com/project-codeflare/instascale) for on-demand scaling of a Kubernetes cluster
 
-Intrgration of this stack into the Open Data Hub is owned by the Distributed Workloads Working
+Integration of this stack into the Open Data Hub is owned by the Distributed Workloads Working
 Group. See [this page](https://github.com/opendatahub-io/opendatahub-community/tree/master/wg-distributed-workloads)
 for further details and how to get in touch.
 
